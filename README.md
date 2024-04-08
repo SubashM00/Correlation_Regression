@@ -58,7 +58,8 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 
 ```
-# Result
-![image](https://github.com/SubashM00/Correlation_Regression/assets/144870586/e0df17be-2246-477d-b9e0-2c126f11fab1)
+# Output
+![image](https://github.com/SubashM00/Correlation_Regression/assets/144870586/91894ff2-3178-4251-b117-895497192e76)
 
-# Output 
+# Result
+Hence the data has been analysed using coeffificient of correlation and regression line.
